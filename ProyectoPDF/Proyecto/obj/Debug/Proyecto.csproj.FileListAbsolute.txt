@@ -1,0 +1,14 @@
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\bin\Debug\Proyecto.exe.config
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\bin\Debug\Proyecto.exe
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\bin\Debug\Proyecto.pdb
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\bin\Debug\itextsharp.dll
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\bin\Debug\itextsharp.xmlworker.dll
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\bin\Debug\itextsharp.xml
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\obj\Debug\Proyecto.Form1.resources
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\obj\Debug\Proyecto.exe
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\obj\Debug\Proyecto.pdb
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
